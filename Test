@@ -12,4 +12,5 @@ int main()
 void firstFunction()
 {
   std::cout << "Hello world! << std::endl;
+  std::cout << "Wow! I did homework" << std::end;
 }
