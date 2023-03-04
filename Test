@@ -1,0 +1,13 @@
+#include <iostream>
+
+void firstFunction();
+
+int main()
+{
+  firstFunction();
+}
+
+void firstFunction()
+{
+  std::cout << "Hello world! << std::endl;
+}
