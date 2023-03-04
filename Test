@@ -5,6 +5,8 @@ void firstFunction();
 int main()
 {
   firstFunction();
+  
+  return 0;
 }
 
 void firstFunction()
